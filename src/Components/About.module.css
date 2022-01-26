@@ -101,20 +101,20 @@ li {
 
     .texto h3 {
         text-align: center;
-        font-size: 15px;
+        font-size: 12px;
     }
 
     .texto p {
-        margin: 10px 15px;
-        font-size: 10px;
+        margin: 8px 15px;
+        font-size: 5px;
     }
 
     .texto li {
-        font-size: 8px;
+        font-size: 5px;
     }
 
     .texto button {
-        font-size: 8px;
+        font-size: 5px;
         margin-top: 0px;
     }
 
