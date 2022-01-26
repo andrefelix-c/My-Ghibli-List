@@ -1,0 +1,42 @@
+
+.container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+
+    overflow-x: scroll;
+
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.input_container {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.input_icon {
+    font-size: 25px;
+    margin-right: 10px;
+    align-self: center;
+}
+
+.input_container input {
+    width: 300px;
+}
+
+input::placeholder {
+    margin-left: 20px;
+}
+
+@media screen and (max-width: 400px) {
+    .input_container input {
+        width: 150px;
+    }
+}
