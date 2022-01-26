@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.0debc609.css",
-    "main.js": "/static/js/main.6d1a4e1d.js",
-    "static/js/787.cead5a70.chunk.js": "/static/js/787.cead5a70.chunk.js",
-    "static/media/me.jpg": "/static/media/me.100173ea5e5250d2b70a.jpg",
-    "static/media/Studio_Ghibli_logo.png": "/static/media/Studio_Ghibli_logo.fc77f7b9f154452c89b8.png",
-    "index.html": "/index.html",
-    "main.0debc609.css.map": "/static/css/main.0debc609.css.map",
-    "main.6d1a4e1d.js.map": "/static/js/main.6d1a4e1d.js.map",
-    "787.cead5a70.chunk.js.map": "/static/js/787.cead5a70.chunk.js.map"
+    "main.css": "/My-Ghibli-List/static/css/main.0debc609.css",
+    "main.js": "/My-Ghibli-List/static/js/main.da771122.js",
+    "static/js/787.cead5a70.chunk.js": "/My-Ghibli-List/static/js/787.cead5a70.chunk.js",
+    "static/media/me.jpg": "/My-Ghibli-List/static/media/me.100173ea5e5250d2b70a.jpg",
+    "static/media/Studio_Ghibli_logo.png": "/My-Ghibli-List/static/media/Studio_Ghibli_logo.fc77f7b9f154452c89b8.png",
+    "index.html": "/My-Ghibli-List/index.html",
+    "main.0debc609.css.map": "/My-Ghibli-List/static/css/main.0debc609.css.map",
+    "main.da771122.js.map": "/My-Ghibli-List/static/js/main.da771122.js.map",
+    "787.cead5a70.chunk.js.map": "/My-Ghibli-List/static/js/787.cead5a70.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.0debc609.css",
-    "static/js/main.6d1a4e1d.js"
+    "static/js/main.da771122.js"
   ]
 }
