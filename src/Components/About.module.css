@@ -101,7 +101,7 @@ li {
 
     .texto h3 {
         text-align: center;
-        font-size: 20px;
+        font-size: 15px;
     }
 
     .texto p {
@@ -110,11 +110,11 @@ li {
     }
 
     .texto li {
-        font-size: 10px;
+        font-size: 8px;
     }
 
     .texto button {
-        font-size: 10px;
+        font-size: 8px;
         margin-top: 0px;
     }
 
