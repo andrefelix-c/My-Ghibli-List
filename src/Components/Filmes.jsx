@@ -9,7 +9,7 @@ function Filmes(){
 
     const [filter, setFilter] = useState('');
 
-    const url = "https://ghibliapi.vercel.com/films" 
+    const url = "https://ghibliapi.vercel.app/films" 
     
     fetch(url)
     .then(response => response.json())
